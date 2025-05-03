@@ -5,7 +5,10 @@ Este projeto é uma aplicação interativa desenvolvida em Python com **Streamli
 🔗 **Acesse a aplicação online**:  
 👉 [https://otimizadorderotasparaentregas-y6jjagirxx85ylwey5gyxb.streamlit.app/](https://otimizadorderotasparaentregas-y6jjagirxx85ylwey5gyxb.streamlit.app/)
 
-🧑‍💻 **Credenciais de acesso para testes**:  
+🧑‍💻 **Credenciais de acesso para testes**:
+
+- **Baixe o arquivo "df"**
+
 - **Usuário**: `teste`  
 - **Senha**: `4321`
 

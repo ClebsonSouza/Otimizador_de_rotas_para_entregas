@@ -2,6 +2,13 @@
 
 Este projeto é uma aplicação interativa desenvolvida em Python com **Streamlit**, que permite otimizar rotas logísticas a partir de coordenadas geográficas fornecidas em planilhas Excel. A otimização é baseada na resolução aproximada do Problema do Caixeiro Viajante (TSP), retornando ao ponto inicial de origem com estimativa de tempo e distância total percorrida.
 
+🔗 **Acesse a aplicação online**:  
+👉 [https://otimizadorderotasparaentregas-y6jjagirxx85ylwey5gyxb.streamlit.app/](https://otimizadorderotasparaentregas-y6jjagirxx85ylwey5gyxb.streamlit.app/)
+
+🧑‍💻 **Credenciais de acesso para testes**:  
+- **Usuário**: `teste`  
+- **Senha**: `4321`
+
 ---
 
 ## ✨ Funcionalidades
@@ -15,10 +22,3 @@ Este projeto é uma aplicação interativa desenvolvida em Python com **Streamli
 - ⚠️ Avisos sobre o modo de testes e melhorias futuras
 
 ---
-
-## 📦 Requisitos
-
-Antes de executar o projeto, instale as dependências abaixo:
-
-```bash
-pip install streamlit pandas pyexcel pyexcel-xls networkx

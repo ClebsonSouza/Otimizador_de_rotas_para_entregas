@@ -1,6 +1,0 @@
-streamlit
-pandas
-pyexcel
-pyexcel-xls
-networkx
-xlsxwriter

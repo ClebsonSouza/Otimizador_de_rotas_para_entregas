@@ -23,7 +23,8 @@ Este projeto é uma aplicação interativa desenvolvida em Python com **Streamli
 
 ---
 
-🙋‍♂️ Autor
-Clébson Freire de Souza
-🔗 LinkedIn
-💻 GitHub (projetos)
+## 🙋‍♂️ Autor
+
+**Clébson Freire de Souza**  
+🔗 [LinkedIn](https://www.linkedin.com/in/clébson-freire-b29669160)  
+💻 [GitHub (projetos)](https://github.com/ClebsonSouza?tab=repositories)

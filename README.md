@@ -1,4 +1,4 @@
-# 🚚 Otimizador de Rotas com Streamlit
+# 🚚 Otimizador de Rotas
 
 Este projeto é uma aplicação interativa desenvolvida em Python com **Streamlit**, que permite otimizar rotas logísticas a partir de coordenadas geográficas fornecidas em planilhas Excel. A otimização é baseada na resolução aproximada do Problema do Caixeiro Viajante (TSP), retornando ao ponto inicial de origem com estimativa de tempo e distância total percorrida.
 
